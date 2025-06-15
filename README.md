@@ -1,8 +1,14 @@
-# 🔧 Linear Regression from Scratch
+# 📈 Linear Regression from Scratch
 
-A simple machine learning project where I implemented linear regression **from scratch** in Python — no libraries like NumPy, Pandas, or scikit-learn used. Just raw Python logic to learn how gradient descent and loss minimization work under the hood.
+👋 A small project where I built a linear regression algorithm—no numpy, no sklearn, just pure Python—to explore gradient descent and cost minimize tech from ground zero.
 
----
+## 🚀 How to Run
+
+git clone https://github.com/zarqash02/Linear_Regression_From_Scratch.git
+cd Linear_Regression_From_Scratch
+python src/generate_dataset.py
+python src/linear_regression.py
+
 
 ## 📁 Project Structure
 
@@ -32,10 +38,6 @@ A simple machine learning project where I implemented linear regression **from s
 - How to implement machine learning logic from scratch
 - Why loss functions matter
 - Basics of linear regression in depth
-
----
-
-## 🖥️ How to Run
 
 1. Clone the repo
 2. Run `notebooks/demo.ipynb` for the full walkthrough
