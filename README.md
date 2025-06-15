@@ -70,7 +70,7 @@ Core math behind linear regression
 
 📸 Sample Output
 Here's a quick look at the model’s predictions vs actual data:
-![Model Output](notebooks/model_output.png)
+![Model Output](https://raw.githubusercontent.com/zarqash02/Linear_Regression_From_Scratch/main/notebooks/model_output.png)
 
 
 ---
